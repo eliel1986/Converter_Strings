@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="converter_strings" src="calculadora_readme.png" />
+  <img alt="converter_strings" src="img/conversor.png" />
 </p>
 
 <h3 align="center">
@@ -25,7 +25,7 @@ Benjamin Disraeli
 
 ## Como funciona
 
-<img src="calculadora_readme.gif">
+<img src="conversor_strings.gif">
 
 ---
 
