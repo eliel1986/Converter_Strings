@@ -25,7 +25,7 @@ Benjamin Disraeli
 
 ## Como funciona
 
-<img src="conversor_strings.gif">
+<img src="img/conversor_strings.gif">
 
 ---
 
