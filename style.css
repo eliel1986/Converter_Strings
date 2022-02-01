@@ -1,0 +1,57 @@
+body {
+	background-image: linear-gradient(90deg,  #C0C0C0, #4F4F4F);
+	text-align: center;
+}
+
+.box {
+	background-color: rgba(0, 0, 0, 0.6);
+	position: absolute;
+	top: 50%; /* centralizar na página */
+	left: 50%; /* centralizar na página */
+	transform: translate(-50%, -50%); /* centralizar na página o meio da div */
+	padding: 15px;
+	/* border-radius: 15px; */
+	color: white;
+}
+
+input {
+	text-align: center;
+	padding: 10px;
+	border: none;
+	outline: none; /* retirar bordas ao clicar */
+	/* border-radius: 10px; */
+	font-size: 15px;
+	width: 55%;
+}
+
+button {
+	background-color: slateblue;
+	margin: 5px;
+	padding: 10px;
+	border: none;
+	outline: none;
+	width: 60%;
+	color: white;
+	/* font-weight: bold; */
+	font-size: 20px;
+	/* border-radius: 10px; */
+	cursor: pointer;
+	transition: 0.5s; /* mudança da cor do botão suavemente */
+}
+
+button:hover {
+	background-color: cornflowerblue;
+}
+
+button#reset {
+	/* font-weight: bold; */
+	background-color: red;
+}
+
+button#reset:hover {
+	background-color: rgb(119, 4, 4);
+}
+
+button#op {
+	margin-bottom: 5px;
+}
